@@ -1,5 +1,4 @@
 package com.erikrodrigues.workshopmongodb.dto;
-
 import java.io.Serializable;
 
 import com.erikrodrigues.workshopmongodb.domain.User;
